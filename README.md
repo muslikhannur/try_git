@@ -1,6 +1,7 @@
 # try_git
 
-Tryin a basic feature of Git
+Tryin a basic feature of Git <br>
+
 0. Download and Install Git
 1. Properly set up github account (Including SSH)
 2. Create a repository
